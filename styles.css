@@ -71,9 +71,14 @@ footer {
     }
     
     h1 {
-        font-size: 1.7rem;
+        font-size: 2rem;
     } 
-    
+   
+    h3 {
+        text-align: center;
+        font-size: 1.2rem;
+    }
+  
     .wrapper {
         margin: 50px 0px 0px 0px;
     }
@@ -90,7 +95,7 @@ footer {
     }
 
 
-.small {
+    .small {
         font-size: 1.2rem;  
     }
 
